@@ -7,4 +7,4 @@ Intenté hacerlo lo más intuitivo posible ya que hay muchos matices en comparac
 
 El proyecto se basa en la plantilla dapp de Solana ; todas las instrucciones para ejecutar el proyecto localmente se pueden encontrar allí. Inspirado en el creador del token de Jacob.
 
-La aplicación está implementada en vercel. Enlace .
+La aplicación está implementada en vercel. Enlace .directo a Solana https://github.com/exitatmosphere/Solana-Token-Creator
