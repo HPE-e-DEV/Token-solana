@@ -5,6 +5,6 @@ El objetivo principal de este repositorio es ayudar a experimentar con el proces
 
 Intenté hacerlo lo más intuitivo posible ya que hay muchos matices en comparación con las cadenas de bloques EVM.
 
-El proyecto se basa en la plantilla dapp de Solana ; todas las instrucciones para ejecutar el proyecto localmente se pueden encontrar allí. Inspirado en el creador del token de Jacob.
+El proyecto se basa en la plantilla dapp de Solana ; todas las instrucciones para ejecutar el proyecto localmente se pueden encontrar allí   https://github.com/solana-labs/dapp-scaffold     . Inspirado en el creador del token de Jacob.
 
 La aplicación está implementada en vercel. Enlace .directo a Solana https://github.com/exitatmosphere/Solana-Token-Creator
