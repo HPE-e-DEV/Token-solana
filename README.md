@@ -1,6 +1,10 @@
 # Token-solana
-token Bitcash del proyecto Alena by Hpe Unidad de negocios y Data 
-Creador de tokens Solana
+token Bitcash del proyecto Alena, by Hpe Unidad de negocios y Data Ing Blockchain
+
+
+
+
+este es un Creador de tokens  basado en la plataforma del ecosystem de Solana
 El objetivo principal de este repositorio es ayudar a experimentar con el proceso de creación de tokens de Solana sin profundizar demasiado en los detalles.
 
 Intenté hacerlo lo más intuitivo posible ya que hay muchos matices en comparación con las cadenas de bloques EVM.
