@@ -2,7 +2,8 @@
 token Bitcash del proyecto Alena, by Hpe Unidad de negocios y Data Ing Blockchain
 
 
-
+Cualquier creacion y/o 
+bifurcación de nuestro token realizado desde este creador de token no tendra valor comercial ni podra ser considerado un token activo de la cadena bitcash by HPE DIV.Empresariales de Ing Blockchain
 
 este es un Creador de tokens  basado en la plataforma del ecosystem de Solana
 El objetivo principal de este repositorio es ayudar a experimentar con el proceso de creación de tokens de Solana sin profundizar demasiado en los detalles.
